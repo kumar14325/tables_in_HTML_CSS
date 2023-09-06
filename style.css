@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(0, 0, 0, 0.8);
+    font-size: 14px;
+    margin: 10%;
+    font-family: 'Open Sans';
+}
+
+h1{
+    text-align: center;
+    font-family: 'Open Sans';
+    color: greenyellow;
+}
+h1:hover{
+    color: lightseagreen;
+    font-family: 'Ranchers', cursive;
+}
+table{
+    border-spacing: 10px 0px;
+}
+td, th{
+    border-bottom: 2px grey;
+    text-align: center;
+    background: rgba(186,247,245,0.5);
+    padding:20px;
+}
+td:hover{
+    font-family: 'Ranchers', cursive;
+    color: aqua;
+    background: #375b5c;
+}
+.image-IND{
+    background-image: url('india.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 250px;
+    height: 15px;
+    text-align: justify;
+
+}
+.image-USA{
+    background-image: url('USA.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+
+}
+.image-UK{
+    background-image: url('uk.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+
+}
+.image-Canada{
+    background-image: url('canada.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+
+}
